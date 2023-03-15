@@ -1,6 +1,7 @@
-# Free-Of-Charge Motor Controller
-
-This motor controller hardware runs the VESC6 open source software for Field Oriented Control.
+# F-Of-C
+is Free-Of-Charge
+# Motor Controller
+Hardware runs the VESC6 open source software for Field Oriented Control.
 
 The schematics is based on the [VESC6 75V 300A Schematics](https://vesc-project.com/sites/default/files/Benjamin%20Posts/vesc_75_300.pdf) and the slightly outdated [Cheap Focer2](https://github.com/shamansystems/Cheap-FOCer-2/blob/Developer-Branch/README.md)
 
