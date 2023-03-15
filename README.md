@@ -1,9 +1,7 @@
-# F-Of-C
-is Free-Of-Charge
-# Motor Controller
-Hardware runs the VESC6 open source software for Field Oriented Control.
+# F-O-C
+is the **F**ree-**O**f-**C**harge Motor Controller hardware running VESC6 software.
 
-The schematics is based on the [VESC6 75V 300A Schematics](https://vesc-project.com/sites/default/files/Benjamin%20Posts/vesc_75_300.pdf) and the slightly outdated [Cheap Focer2](https://github.com/shamansystems/Cheap-FOCer-2/blob/Developer-Branch/README.md)
+Schematics based on open source [VESC6 75V 300A Schematics](https://vesc-project.com/sites/default/files/Benjamin%20Posts/vesc_75_300.pdf) and the slightly outdated [Cheap Focer2](https://github.com/shamansystems/Cheap-FOCer-2/blob/Developer-Branch/README.md)
 
 ##Low Cost
 All components are well stocked at [JLCPCB](https://jlcpcb.com/) and [LCSC](https://www.lcsc.com) with the exception of Mosfets and Shunt Resistors, which can be purchased cheap on Aliexpress:
@@ -19,3 +17,7 @@ All components are well stocked at [JLCPCB](https://jlcpcb.com/) and [LCSC](http
 * Compatible with VESC software
 
 * 2-layer PCB for JLCPCB production
+
+## Feedback
+Please, any feedback on the schematics is very welcome.
+Kicad6 files available in source directory.
