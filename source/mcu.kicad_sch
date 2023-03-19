@@ -2157,7 +2157,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8ae00f59-443a-449d-8f69-82e604ba8f72)
   )
-  (text "Free-Of-Charge" (at 187.96 191.77 0)
+  (text "F-Of-C" (at 187.96 191.77 0)
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid e44dd86d-8737-430e-a0f5-f7ecf3fa5a6b)
   )
