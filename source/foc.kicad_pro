@@ -35,7 +35,7 @@
         "pads": {
           "drill": 0.0,
           "height": 0.6,
-          "width": 1.475
+          "width": 1.325
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -401,7 +401,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 2000,
+    "annotate_start_num": 0,
     "drawing": {
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
