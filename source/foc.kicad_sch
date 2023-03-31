@@ -921,19 +921,19 @@
     (pin "9" (uuid e060aa58-0303-4843-b789-6fac467d4b59))
   )
 
-  (symbol (lib_id "Device:R") (at -41.91 119.38 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 53.34 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 62ef4635-b49c-438c-85be-c661ac8e24f3)
-    (property "Reference" "R1" (id 0) (at -38.1 118.1099 0)
+    (property "Reference" "FieldFeets" (id 0) (at 55.88 107.9499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (id 1) (at -38.1 120.6499 0)
+    (property "Value" "R" (id 1) (at 55.88 110.4899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Custom:field" (id 2) (at -43.688 119.38 90)
+    (property "Footprint" "Custom:field" (id 2) (at 51.562 109.22 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at -41.91 119.38 0)
+    (property "Datasheet" "~" (id 3) (at 53.34 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 74c102d5-3066-41a7-88c9-ac35e0405465))
@@ -1986,6 +1986,9 @@
     (path "/64b117fb-212c-4b17-8f2f-7c4db3eb0d00/e09ee8f1-3ab6-4ffc-82fd-7b4af1de5035"
       (reference "D18") (unit 1) (value "BLU") (footprint "LED_SMD:LED_0603_1608Metric")
     )
+    (path "/62ef4635-b49c-438c-85be-c661ac8e24f3"
+      (reference "FieldFeets") (unit 1) (value "R") (footprint "Custom:field")
+    )
     (path "/64b117fb-212c-4b17-8f2f-7c4db3eb0d00/f60dae52-c28c-46c1-b027-f3d548cb9533"
       (reference "J1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
@@ -2072,9 +2075,6 @@
     )
     (path "/a0e58770-9000-455d-98f5-a535604e163e/9f623dd1-45fe-4ff8-b78d-b0ee8e92cd7d"
       (reference "Q18") (unit 1) (value "CSD19536KCS") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
-    )
-    (path "/62ef4635-b49c-438c-85be-c661ac8e24f3"
-      (reference "R1") (unit 1) (value "R") (footprint "Custom:field")
     )
     (path "/61335856-a61f-49fc-8440-5f9d8f38f7e0"
       (reference "R2") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
